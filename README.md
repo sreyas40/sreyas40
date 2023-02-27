@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @boomersr
+- 👋 Hi, I’m Sreyas
 - 👀 I’m interested in Web & App Development  
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on web related projects
 - 📫 How to reach me --- sreyaskumar40@gmail.com
 
