@@ -1,4 +1,9 @@
-<body style="background-color:"red"">
+<body>
+  <style>
+    body{
+    background-color: red;
+    }
+  </style>
 <h1 align="center">Hi 👋, I'm Sreyas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
