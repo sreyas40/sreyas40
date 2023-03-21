@@ -1,7 +1,7 @@
 <body>
   <style>
     body{
-    background-color: red;
+    background-color: #ffe6e6;
     }
   </style>
 <h1 align="center">Hi 👋, I'm Sreyas</h1>
