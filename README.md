@@ -1,9 +1,4 @@
 <body>
-  <style>
-    body {
-    background-color: #ffe6e6;
-    }
-  </style>
 <h1 align="center">Hi 👋, I'm Sreyas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
