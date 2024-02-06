@@ -1,4 +1,4 @@
-<body>
+<body style=" background: rgb(178,178,241);background: linear-gradient(90deg, rgba(178,178,241,1) 0%, rgba(11,11,73,1) 96%); ">
 <h1 align="center">Hi 👋, I'm Sreyas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
